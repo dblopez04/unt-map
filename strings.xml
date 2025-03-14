@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dpmap</string>
+    <string name="placeholder_result">Placeholder text</string>
+    <string name="loading">Loading, please wait</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="dp_map">Map of Discovery Park</string>
+    <string name="retry">Retry</string>
+</resources>
